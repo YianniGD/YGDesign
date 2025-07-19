@@ -16,7 +16,7 @@ export default function AboutPage() {
       <div className="max-w-[18rem] mx-auto mb-8">
         <div className="relative aspect-square w-full overflow-hidden rounded-lg shadow-md bg-muted">
           <Image
-            src="https://firebasestorage.googleapis.com/v0/b/artfolio-lg8he.firebasestorage.app/o/8792b710-4fb0-4d5d-a9ba-eb74a6c0b19d.jpg?alt=media&token=a029153b-2750-4e77-ae44-f31b7c07d8e1"
+            src=""
             alt="Portrait of Yianni Galiatsatos"
             fill
             data-ai-hint="portrait person"

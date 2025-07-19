@@ -13,7 +13,6 @@ export interface Artwork {
   dimensions: string; // e.g., "100cm x 75cm"
   medium: string; // e.g., "Oil on canvas"
   toolsUsed?: string[];
-  dataAiHint?: string; // For placeholder images, max two words
   additionalImageUrls?: (string | undefined)[]; // Can be URLs or SVG strings
   additionalImageCaptions?: (string | undefined)[]; // Captions for additional images
   interactiveDisplay?: {
